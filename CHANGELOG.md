@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [v1.0.1] - 2026-10-20
+
 ### Fixed
 
 - Install and configure sudo in the Docker image, so that jobs can run as superuser
@@ -43,7 +45,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 First release candidate.
 
-[Unreleased]: https://github.com/floriandejonckheere/rsync-ui/compare/v1.0.0..main
+[Unreleased]: https://github.com/floriandejonckheere/rsync-ui/compare/v1.0.1..main
+[v1.0.1]: https://github.com/floriandejonckheere/rsync-ui/compare/v1.0.0..v1.0.1
 [v1.0.0]: https://github.com/floriandejonckheere/rsync-ui/compare/v1.0.0-rc.2..v1.0.0
 [v1.0.0-rc.2]: https://github.com/floriandejonckheere/rsync-ui/compare/v1.0.0-rc.1..v1.0.0-rc.2
 [v1.0.0-rc.1]: https://github.com/floriandejonckheere/rsync-ui/releases/tag/v1.0.0-rc.1
